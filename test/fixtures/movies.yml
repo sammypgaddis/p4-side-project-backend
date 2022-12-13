@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  date: MyString
+  image_url: MyString
+  star_rating: 1
+  theater_id: 1
+  theater: one
+
+two:
+  name: MyString
+  description: MyString
+  date: MyString
+  image_url: MyString
+  star_rating: 1
+  theater_id: 1
+  theater: two
